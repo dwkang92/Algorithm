@@ -1,5 +1,8 @@
-from sys import stdin
-a = stdin.readline().rstrip()
-b = stdin.readline().rstrip()
+a = input()
+b = input()
 print(b)
 print(a)
+
+a = input()
+b = input()
+print(b+"\n"+a)

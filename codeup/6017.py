@@ -1,2 +1,2 @@
 a = input()
-print(a, a, a)
+print(a*3)

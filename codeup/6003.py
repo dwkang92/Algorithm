@@ -1,3 +1,7 @@
-# 두줄에 나누어 문장을 출력해보자
+# First Trial
+# Use the letter "\n"
+print("Hello\nWorld")
+
+# Second Trial (Simple one)
 print("Hello")
 print("World")
